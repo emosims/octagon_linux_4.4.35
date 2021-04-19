@@ -1,0 +1,1 @@
+obj-$(CONFIG_DVB_GX1133) += gx1133.o
